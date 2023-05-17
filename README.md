@@ -1,6 +1,6 @@
 # shop_app
 
-A new Flutter project using Reset Apis, bloc, dio package and shared preferences with some features such as login and sign up screens , on boarding screens, products screen, categories screen, favorite screen, search screen and settings screen
+A new Flutter project using Rest Apis, bloc, dio package and shared preferences with some features such as login and sign up screens , on boarding screens, products screen, categories screen, favorite screen, search screen and settings screen
 
 
 ## Getting Started
