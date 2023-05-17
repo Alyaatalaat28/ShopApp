@@ -1,7 +1,6 @@
 # shop_app
 
-A new Flutter project using Rest Apis, bloc, dio package and shared preferences with some features such  Onboarding screens. 
-
+This Flutter project uses Rest APIs, bloc, dio package, and shared preferences to create a user-friendly app. It includes onboarding screens to introduce users to the app and its features. The app communicates with a server to fetch and display data and uses shared preferences to store user data locally on the device.
 
 
 ![PhotoGrid_1684333581447](https://github.com/Alyaatalaat28/ShopApp/assets/78979377/bdc4aee5-f29c-426b-affb-a3dae38d6b21)
